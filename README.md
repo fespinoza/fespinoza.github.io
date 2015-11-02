@@ -24,3 +24,16 @@ http://fespinozacast.com/blog/pages/2
 ## Examples
 
 http://zachholman.com
+
+## Todo
+
+- [ ] rake task to create post
+- [ ] example post with code
+- [ ] example post with gist
+- [ ] example post with speakerdeck
+- [ ] example post with youtube video
+- [ ] example post with image
+- [ ] check mobile version of blog
+- [ ] check html validator
+- [ ] check reader view
+- [ ] style code hightlighting
