@@ -27,7 +27,7 @@ http://zachholman.com
 
 ## Todo
 
-- [ ] rake task to create post
+- [x] rake task to create post
 - [x] example post with code
 - [ ] example post with gist
 - [ ] example post with speakerdeck
