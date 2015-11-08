@@ -29,11 +29,11 @@ http://zachholman.com
 
 - [x] rake task to create post
 - [x] example post with code
-- [ ] example post with gist
-- [ ] example post with speakerdeck
-- [ ] example post with youtube video
+- [x] example post with gist
+- [x] example post with speakerdeck
+- [x] example post with youtube video
 - [x] example post with image
 - [ ] check mobile version of blog
 - [ ] check html validator
 - [ ] check reader view
-- [ ] style code hightlighting
+- [x] style code hightlighting
