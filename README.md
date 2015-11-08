@@ -28,7 +28,7 @@ http://zachholman.com
 ## Todo
 
 - [ ] rake task to create post
-- [ ] example post with code
+- [x] example post with code
 - [ ] example post with gist
 - [ ] example post with speakerdeck
 - [ ] example post with youtube video
