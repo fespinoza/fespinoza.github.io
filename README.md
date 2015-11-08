@@ -32,7 +32,7 @@ http://zachholman.com
 - [ ] example post with gist
 - [ ] example post with speakerdeck
 - [ ] example post with youtube video
-- [ ] example post with image
+- [x] example post with image
 - [ ] check mobile version of blog
 - [ ] check html validator
 - [ ] check reader view
