@@ -100,4 +100,4 @@ In a lot of opportunities it hasn't been easy to start from the ground up in a p
 
 Norwegians singing in Spanish
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/77Ms1oCiDH4" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/77Ms1oCiDH4" frameborder="0" allowfullscreen></iframe>

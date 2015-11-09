@@ -9,7 +9,7 @@ tags: en
 
 This talk is by Ben Orenstein and is about refactoring in ruby and it's really cool
 
-<iframe width="740" height="416" src="https://www.youtube.com/embed/DC-pQPq0acs" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DC-pQPq0acs" frameborder="0" allowfullscreen></iframe>
 
 First a personal advice
 
