@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Endpoint Design Process
+title: Example elements in post
 description: maximum 155 char description
 category: blog
 tag: blog
