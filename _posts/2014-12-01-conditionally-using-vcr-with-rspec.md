@@ -7,10 +7,7 @@ tags: en
 
 Today I want to share a couple tips when using `VCR` with `RSpec`
 
-When I have to interact with third party APIs, for convenience I like to use
-VCR to record the requests I do to that third party in order to run the test
-faster, when focusing more on my code given the response from the third party
-rather than the web interaction with the third party.
+When I have to interact with third party APIs, for convenience I like to use VCR to record the requests I do to that third party in order to run the test faster, when focusing more on my code given the response from the third party rather than the web interaction with the third party.
 
 For this reason I usually use VCR with my projects, and here I want to share
 my preferred tips when working with `VCR` with `RSpec`:
@@ -34,9 +31,7 @@ describe ThirdPartyWrapper
 end
 ```
 
-Instead of calling manually `VCR.use_cassette` we can add a `:vcr` RSpec tag
-to the name of the test, so we can avoid that unnecessary code, so then it will
-be like:
+Instead of calling manually `VCR.use_cassette` we can add a `:vcr` RSpec tag to the name of the test, so we can avoid that unnecessary code, so then it will be like:
 
 ```ruby
 describe ThirdPartyWrapper
@@ -48,8 +43,7 @@ describe ThirdPartyWrapper
 end
 ```
 
-For this to work you need to alternative enable symbols as tags in RSpec and
-add this to your VCR configuration
+For this to work you need to alternative enable symbols as tags in RSpec and add this to your VCR configuration
 
 ```ruby
 VCR.configure do |c|
@@ -61,10 +55,7 @@ end
 
 ## Optionally Running VCR
 
-Basically, the idea is that sometimes I want to hit the third party service
-to check the status of it (when is not that reliable), and I don't want to
-need to delete my old recordings in order to be able to do this, reason why
-I add the following code on my projects.
+Basically, the idea is that sometimes I want to hit the third party service to check the status of it (when is not that reliable), and I don't want to need to delete my old recordings in order to be able to do this, reason why I add the following code on my projects.
 
 ```ruby
 require 'vcr_helper'
