@@ -8,7 +8,15 @@
 # Site settings
 title: Felipe Espinoza
 email: fespinozacast@gmail.com
-description: ''
+description: |
+  <p>
+    I'm Felipe Espinoza, Chilean developer living in Oslo, working for <a href="http://www.hyper.no">Hyper</a>.
+  </p>
+
+  <p>
+    I like clean and testable code, I write mostly Ruby, Javascript
+    and recently Swift. I am also a Apple and Vim fanboy :).
+  </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fespinozacast.com" # the base hostname & protocol for your site
 twitter_username: fespinozacast
