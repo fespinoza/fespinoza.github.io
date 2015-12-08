@@ -75,11 +75,12 @@ The previous step can be done in under 10 minutes, from code to deploy, meaning 
 After that, given that the Backend developers have a contract to _stick to_, then when they release the actual implementation of the endpoint can be completely painless for the clients.*
 
 Some advantages of this approach are:
-  - Quickly detect possible conceptual problems for the UI design.
-  - Ensure the requirements are met for both backend/client developers.
-  - Cheap and simple tool of communication.
-  - Existence of a registry of decisions and discussions.
-  - The endpoint proposal can be used by backend clients as spec.
+
+- Quickly detect possible conceptual problems for the UI design.
+- Ensure the requirements are met for both backend/client developers.
+- Cheap and simple tool of communication.
+- Existence of a registry of decisions and discussions.
+- The endpoint proposal can be used by backend clients as spec.
 
 This post is a write-out of my lightning talk in Full Stack Fest 2015, [near minute 15](https://www.youtube.com/watch?v=0EfomIPH48g&feature=youtu.be&t=15m3s)
 
