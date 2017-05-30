@@ -1,4 +1,4 @@
-# Fespinozacast.com
+# My blog
 
 ## Sections
 
@@ -6,24 +6,19 @@
 - talks
 - projects
 
-http://fespinozacast.com
-http://fespinozacast.com/blog/pages/2
-http://fespinozacast.com/blog/my-first-year-in-norway
+### Examples
 
-http://fespinozacast.com/talks
-http://fespinozacast.com/talks/practical-apis-rails-style
-
-http://fespinozacast.com/projects
-http://fespinozacast.com/projects/visual-mind
+- https://fespinoza.github.io
+- https://fespinoza.github.io/blog/pages/2
+- https://fespinoza.github.io/blog/my-first-year-in-norway
+- https://fespinoza.github.io/talks
+- https://fespinoza.github.io/talks/practical-apis-rails-style
+- https://fespinoza.github.io/projects
+- https://fespinoza.github.io/projects/visual-mind
 
 ### Pagination
 
-http://fespinozacast.com/blog/pages/2
-
-
-## Examples
-
-http://zachholman.com
+https://fespinoza.github.io/blog/pages/2
 
 ## Todo
 
