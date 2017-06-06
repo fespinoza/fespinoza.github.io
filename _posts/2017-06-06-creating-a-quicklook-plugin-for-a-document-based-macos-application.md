@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Creating a QuickLook pluging for a document-based macOS application
+title: Creating a QuickLook plugin for a document-based macOS application
 description: required knowledge and tutorial to create QL plugins.
-category: blog
-tag: blog
+tags: swift document-based-apps cocoa macOS quicklook
 ---
 
 I've been developing my first mac application, [Linked Ideas][linked-ideas], where I create documents where I write down ideas and connect them easily. For this application, due the presence of a custom document type I wanted to create a QuickLook plugin to generate previous of this documents.
@@ -35,7 +34,7 @@ If you have been following along with my explanations so far you may get the sam
 
 For that reason I created a full-length video tutorial where I go step by step creating the pluging and I show how to perform all the previous step I mentioned about.
 
-<iframe src="https://www.youtube.com/embed/FjKt5uki7zA?ecver=1" frameborder="0" allowfullscreen>
+<iframe src="https://www.youtube.com/embed/g7O0KRFaK2E?ecver=1" frameborder="0" allowfullscreen>
 </iframe>
 
 Also, since my application is Open Source, you can find the [Pull Request where I added this plugin to my App][linked-ideas-pr].
