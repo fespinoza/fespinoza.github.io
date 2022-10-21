@@ -10,12 +10,13 @@ title: Felipe Espinoza
 email: fespinozacast@gmail.com
 description: |
   <p>
-    I'm Felipe Espinoza, Chilean developer living in Oslo, working for <a href="http://www.hyper.no">Hyper</a>.
+    I'm Felipe Espinoza, Chilean developer living in Norway, working for <a href="http://www.sats.no">SATS</a>.
   </p>
 
   <p>
-    I like clean and testable code, I write mostly Ruby, Javascript
-    and recently Swift. I am also a Apple and Vim fanboy :).
+    I like clean and testable code, I write mostly Swift and Ruby.
+    I used to do a bunch of backend with Ruby on Rails, but now a days I work with
+    Swift and SwiftUI
   </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fespinozacast.com" # the base hostname & protocol for your site
