@@ -32,3 +32,4 @@ highlighter: rouge
 # Outputting
 permalink: :title
 
+include: [".well-known"]
